@@ -12,7 +12,7 @@ if (isset($_POST['submit'])) {
         $phone = $_POST['phone'];
 
         $host = "localhost";
-        $dbUsername = "ghopse";
+        $dbUsername = "tutorial";
         $dbPassword = "Tut0r1@1";
         $dbName = "tutorial_db";
 
